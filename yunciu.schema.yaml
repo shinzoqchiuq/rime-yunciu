@@ -4,7 +4,7 @@
 schema:
   schema_id: yunciu
   name: 永州官话
-  version: "0.0.2"
+  version: "0.0.3"
   author:
     - Electric Sheep <shinzoqchiuq@outlook.com>
   description: |
@@ -65,6 +65,8 @@ speller:
     # 模糊音
     # uo -> o
     - derive/wo/o/
+    # yai -> ngai
+    - derive/yai/ngai/
     # ng -> ∅
     - derive/\bng//
     # f -> hu

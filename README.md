@@ -1,4 +1,4 @@
-# 永州方言輸入方案
+# 永州官話輸入方案
 
 配方：℞ **shinzoqchiuq/rime-yunciu**
 
